@@ -1,3 +1,3 @@
 # Mob-Robots
 
-The whole project can be run in the Jupyter notebook Projet Final.
+The whole project can be run in the Jupyter notebook `ProjetFinal.ipynb`.
